@@ -100,8 +100,8 @@ export default function AboutSection() {
                 <Briefcase size={20} />
               </div>
               <div className={styles.timelineContent}>
-                <h4>Prodigy InfoTech</h4>
-                <p>Machine Learning</p>
+                <h4>Machine Learning</h4>
+                <p>Prodigy InfoTech</p>
                 <span className={styles.timelinePeriod}>2024</span>
               </div>
             </div>
