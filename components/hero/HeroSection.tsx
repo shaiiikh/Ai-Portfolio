@@ -42,13 +42,13 @@ export default function HeroSection() {
           className={styles.cta}
         >
           <a 
-            href="https://drive.google.com/file/d/1VoGQdjtE6xvuEgdxHAVbHL2LcBgTOAbj/view?usp=sharing" 
+            href="https://drive.google.com/file/d/1XT68FZq5PKG8AMbbyrTLTF0YCvBncqsP/view?usp=sharing" 
             className={`${styles.button} ${styles.primary}`}
             target="_blank"
             rel="noopener noreferrer"
           >
             <FileText size={18} />
-            <span>View Resume</span>
+            <span>View CV</span>
           </a>
 
           <div className={styles.socialLinks}>
