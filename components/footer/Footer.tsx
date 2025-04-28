@@ -69,9 +69,6 @@ export default function Footer() {
 
           <div className={styles.copyright}>
             <p>© {currentYear} Muhammad Ali Shaikh. All rights reserved.</p>
-            <p className={styles.builtWith}>
-              Built with <Heart size={14} className={styles.heartIcon} /> using Next.js
-            </p>
           </div>
 
           <div className={styles.links}>
